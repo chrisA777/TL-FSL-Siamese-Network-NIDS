@@ -1,0 +1,2 @@
+Score,Seed Value,weight_decay,batch_size,n_epochs,n_layers,n_nodes_0,n_nodes_1,n_nodes_2,d_out,dropout,margin,min_val,max_val
+0.99875,99,1.886214728143482e-05,5000,283,3,128,256,256,32,0.30000000000000004,0.30000000000000004,1.222545415333091e-07,0.003951067214749813

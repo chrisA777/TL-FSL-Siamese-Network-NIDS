@@ -1,0 +1,2 @@
+Score,Seed Value,weight_decay,batch_size,n_epochs,margin,min_val,max_val
+0.893,8,1.605811138234279e-05,256,235,0.9,7.882633210146452e-07,0.007330172679424986
